@@ -1,0 +1,7 @@
+fastapi==0.128.8
+uvicorn==0.39.0
+pytest==8.4.2
+httpx==0.28.1
+pytest-env==1.1.5
+black==25.11.0
+flake8==7.3.0
